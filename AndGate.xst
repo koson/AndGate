@@ -1,0 +1,5 @@
+set -tmpdir "E:/Users/AndGate/xst/projnav.tmp"
+set -xsthdpdir "E:/Users/AndGate/xst"
+elaborate
+-ifn AndGate.prj
+-ifmt mixed
